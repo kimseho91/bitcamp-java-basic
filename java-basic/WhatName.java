@@ -1,5 +1,6 @@
 class WhatName{
     public static void main(String[]agrs){
-        System.out.print("�輼ȣ");
+        System.out.print("What`s your name ?");
+        System.out.print("My Name is " + "Kim);
     }
 }
